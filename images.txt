@@ -1,2 +1,2 @@
 rocker/r-ver:devel
-r-ver:latest
+rocker/r-ver:latest
