@@ -1,5 +1,4 @@
-rocker/r-ver:devel
-rocker/r-ver:latest
+
 continuumio/miniconda3
 mysql:latest
 mongodb/mongodb-community-server:7.0-ubi8
