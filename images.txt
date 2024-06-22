@@ -1,2 +1,6 @@
 rocker/r-ver:devel
 rocker/r-ver:latest
+continuumio/miniconda3
+mysql:latest
+mongodb/mongodb-community-server:7.0-ubi8
+prefecthq/prefect:3.0.0rc6-python3.10-conda
