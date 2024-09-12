@@ -1,4 +1,1 @@
-tensorflow/tensorflow:2.16.2-gpu
-tensorflow/tensorflow:2.16.1-gpu
-tensorflow/tensorflow:latest
-tensorflow/tensorflow:2.16.2
+postgres:12.20-alpine3.20
