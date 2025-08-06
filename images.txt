@@ -1,2 +1,1 @@
-demisto/python3:3.11.11.1940698
-
+clydespace/python3.11:latest
