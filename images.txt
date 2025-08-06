@@ -1,2 +1,2 @@
-pytorch/pytorch:2.6.0-cuda11.8-cudnn9-runtime
+demisto/python3:3.11.11.1940698
 
