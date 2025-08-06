@@ -1,1 +1,2 @@
-miigotu/python3.11
+pytorch/pytorch:2.6.0-cuda11.8-cudnn9-runtime
+
