@@ -1,1 +1,1 @@
-clydespace/python3.11:latest
+python:3.11.13-slim
