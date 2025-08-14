@@ -1,2 +1,1 @@
-tensorflow/tensorflow:2.19.0-gpu
-
+gesiscss/binder-r2d-g5b5b759-sktime-2dsktime-099763
