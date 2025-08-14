@@ -1,2 +1,2 @@
+tensorflow/tensorflow:2.19.0-gpu
 
-sapache/dolphinscheduler-standalone-server:3.3.0-alpha
